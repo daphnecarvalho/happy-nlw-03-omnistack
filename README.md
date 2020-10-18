@@ -30,6 +30,9 @@ O Happy é uma aplicação que conecta pessoas à casas de acolhimento instituci
 # Acesse a pasta do projeto backend
 $ cd backend
 
+# Pasta onde a aplicação salvará os arquivos de imagem
+-> Crie uma pasta com o nome de 'uploads'
+
 # Instale as dependências
 $ yarn install
 
