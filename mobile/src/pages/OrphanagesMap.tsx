@@ -24,7 +24,6 @@ export default function OrphanagesMap() {
     useFocusEffect(() => {
       api.get('orphanages').then(response => {
         setOrphanages(response.data);
-        console.log(response.data);
       });
     });
 
