@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-executando-projeto">Executando o Projeto</a>
+  <a href="#-executando-o-projeto">Executando o Projeto</a>
 </p>
 
 ## 🚀 Tecnologias
@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜
+O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz. 💜
 
 ## ⌨ Executando o Projeto
 
@@ -29,6 +29,9 @@ O Happy é uma aplicação que conecta pessoas à casas de acolhimento instituci
 ```bash
 # Acesse a pasta do projeto backend
 $ cd backend
+
+# Pasta onde a aplicação salvará os arquivos de imagem
+-> Crie uma pasta com o nome de 'uploads'
 
 # Instale as dependências
 $ yarn install
